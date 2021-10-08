@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/chinese4/hanyu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome 耶鲁中文项目欢迎你！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Yale Chinese programs offer the most comprehensive and rigorous Mandarin curriculum in the nation for two tracks of Chinese language training available to both heritage learners and non-heritage learners. Beyond the fourth year courses, Yale Chinese programs also offer a multitude of subject-based language courses, ranging from modern and
 
-### Markdown
+Chinese Teachers 2019
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+contemporary literary texts, non-fiction writings, Chinese media and society, to business Chinese. These advanced courses are designed to accommodate both heritage and non-heritage learners with the most superlative proficiency. Students with any Chinese language proficiency must undergo a placement test prior to taking a course beyond the elementary level.
 
-```markdown
-Syntax highlighted code block
+Every year, Yale Chinese Programs enroll about 400 students in broadly varied disciplines and academic majors. With the generous support from the Light Fellowship and the Greenberg Foundation, about 100 students choose to attend optimal summer programs during the summer in China and Taiwan, for accelerated Chinese study through immersion programs. After graduation, many students pursue career paths in investment, law, economics, medicine, sciences, engineering, environmental studies, among many other China-related fields and areas.
 
-# Header 1
-## Header 2
-### Header 3
+For questions or detailed information about the program, please contact Program Coordinator, Rongzhen Li.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chinese4/hanyu/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
